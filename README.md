@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-web-application
-Tic-Tac-Toe Web Application
+# Tic-Tac-Toe Web Application
+# PRODIGY_WD_03
+INTERNSHIP
